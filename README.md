@@ -66,7 +66,7 @@ I'm a pre-final year Computer Science student at UPES Dehradun, building at the 
 
 ---
 
-### 🟢 [Apple Leaf Disease Detection](https://github.com/raghav21malik) *(Ongoing)*
+### 🟢 [Apple Leaf Disease Detection](https://github.com/raghav21malik) 
 > Hybrid deep learning + classical ML model for agricultural diagnosis
 
 - Implementing a **CNN–SVM / Random Forest** pipeline for multi-class disease classification
